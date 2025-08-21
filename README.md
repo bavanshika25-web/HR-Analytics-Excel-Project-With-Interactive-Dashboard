@@ -1,5 +1,7 @@
 HR Analytics Dashboard – Excel Project 📊
+
 Overview
+
 This project analyzes employee attrition and workforce trends using Microsoft Excel on a dataset of approximately 1,470 employees. The goal is to provide actionable insights for HR and leadership teams to reduce turnover, enhance retention strategies, and support diversity and workforce planning. By leveraging Excel’s advanced features like Pivot Tables, Slicers, KPIs, and Conditional Formatting, this project delivers an interactive dashboard that transforms raw data into strategic business intelligence.
 This project is ideal for demonstrating data analytics skills in HR/People Analytics, particularly for roles requiring Excel proficiency and business problem-solving.
 
